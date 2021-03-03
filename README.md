@@ -16,4 +16,5 @@ Installation:
     - In a terminal: cd Desktop && git clone https://github.com/C-PONS-DEV/script_AD
 
     - open .ps1 files as administrator in powershell
+    
     - open the .cmd files in administrator in the cmd
